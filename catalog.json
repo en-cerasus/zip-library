@@ -1,6 +1,6 @@
 {
   "schemaVersion": 4,
-  "updatedAt": "2026-11-11T15:20:44.5074199+00:00",
+  "updatedAt": "2026-11-18T09:03:16.768633+00:00",
   "works": [
     {
       "id": "a7cf2815-c184-43b7-a838-39214f57bb13",
@@ -92,6 +92,16 @@
           "provider": "google-drive",
           "remoteFileId": "1iJwenSfF9NkUx_TxR5KSnJ20GFH2KQv1",
           "releaseId": "0590a20e-afcd-47be-8764-72ba89e8b545"
+        },
+        {
+          "version": "1.4",
+          "changelog": "\u03B22026.11.15.0\u306B\u5BFE\u5FDC",
+          "releasedAt": "2026-11-18T09:02:21.5470976+00:00",
+          "downloadUrl": "https://drive.google.com/file/d/1V3dClVtW8ppqybqh2M1kVxJ9EH_o6n3O/view?usp=drivesdk",
+          "storageId": "31f7676a-977f-486f-ae26-829402185587",
+          "provider": "google-drive",
+          "remoteFileId": "1V3dClVtW8ppqybqh2M1kVxJ9EH_o6n3O",
+          "releaseId": "da0f6467-e436-4cc8-8ac8-bad49fac17aa"
         }
       ],
       "categoryId": "897bc3c4de0543baae37e25a02d60314",
